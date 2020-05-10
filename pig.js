@@ -1,4 +1,7 @@
-Fuck con pheu 
-function Nooo({
-	
-})
+
+var chalk = require('chalk')
+function Nooo(){
+	console.log("sua con kax " + chalk.red('kax'));
+};
+Nooo();
+
