@@ -1,1 +1,4 @@
-Fuck
+Fuck con pheu 
+function Nooo({
+	
+})
